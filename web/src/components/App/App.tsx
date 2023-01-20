@@ -1,6 +1,6 @@
-import { useState } from 'react';
+import '../../styles/global.css';
 import Habit from '../Habit/Habit';
-import './App.css'
+//import './App.css'
 
 function App() {
   
